@@ -24,7 +24,7 @@ const Navbar = () => {
         >
           <p className="lg:text-4xl text-3xl text-orange-600 font-bold cursor-pointe text-shadow-stone-900">
             s
-            <span className="lg:text-4xl text-3xl text-green-500 font-bold">
+            <span className="lg:text-4xl text-3xl text-green-500 font-bold animate-swing">
               i
             </span>
             svas
