@@ -28,7 +28,7 @@ const About = () => {
           </h1>
           <h2 className="lg:text-xl text-lg font-bold font-[Poppins] text-pink-600">
             {" "}
-            B.Tech in Computer Science - (2021–2025) | CGPA-8.15
+            B.Tech in Computer Science - (2021–2025) | CGPA-8.2/10
           </h2>
         </div>
 
