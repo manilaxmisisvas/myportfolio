@@ -35,10 +35,13 @@ const Home = () => {
           </span>
         </h2>
         <p className=" font-bold font-[Poppins]  text-sm lg:text-lg lg:text-justify md:text-pretty md:mt-4">
-          "Hi, I'm Manilaxmi sisvas Kundarapu, a frontend developer skilled in
-          building responsive and user-friendly web interfaces using HTML, CSS,
-          JavaScript, and React. I'm passionate about creating clean UI/UX and
-          continuously improving my skills with modern tools and frameworks."
+          "Hi, I'm Manilaxmi sisvas Kundarapu, Aspiring Fullstack Developer
+          proficient in frontend technologies like HTML, CSS, JavaScript, and
+          React, and backend technologies including Node.js, Express, and
+          MongoDB (MERN). Experienced in creating RESTful APIs, developing
+          responsive and user-friendly web applications, and integrating
+          third-party APIs. Passionate about writing clean, maintainable code
+          and delivering seamless UI/UX experiences.
         </p>
         <a href="/Kundarapu_Manilaxmi sisvas_Resume.pdf" download>
           <button
