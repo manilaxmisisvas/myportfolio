@@ -43,7 +43,7 @@ const Home = () => {
           third-party APIs. Passionate about writing clean, maintainable code
           and delivering seamless UI/UX experiences.
         </p>
-        <a href="/Kundarapu_Manilaxmi sisvas_Resume.pdf" download>
+        <a href="/Kundarapu_Manilaxmi Sivas_resume.pdf" download>
           <button
             type="button"
             className="text-white bg-gradient-to-r font-[Poppins] from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 lg:font-medium text-sm rounded-xl font-semibold px-5 py-2.5 text-center lg:me-2  lg:mt-8 mt-1.5 cursor-pointer md:mt-7"
